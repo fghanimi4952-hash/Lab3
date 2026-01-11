@@ -34,10 +34,10 @@ npx expo start
 
 ## Fonctionnalités implémentées
 
-- ✅ Utilisation de ScrollView pour le défilement vertical
-- ✅ Configuration de la barre de défilement blanche (indicatorStyle="white")
-- ✅ Texte long et formaté pour démontrer le défilement
-- ✅ Interface cohérente avec thème sombre
+-  Utilisation de ScrollView pour le défilement vertical
+-  Configuration de la barre de défilement blanche (indicatorStyle="white")
+-  Texte long et formaté pour démontrer le défilement
+-  Interface cohérente avec thème sombre
 
 ## Test
 
